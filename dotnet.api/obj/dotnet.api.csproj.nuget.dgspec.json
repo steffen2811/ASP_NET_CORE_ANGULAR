@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sites\\dotnet_core_angular\\dotnet.api\\dotnet.api.csproj": {}
+    "C:\\sites\\ASP_NET_CORE_ANGULAR\\dotnet.api\\dotnet.api.csproj": {}
   },
   "projects": {
-    "C:\\sites\\dotnet_core_angular\\dotnet.api\\dotnet.api.csproj": {
+    "C:\\sites\\ASP_NET_CORE_ANGULAR\\dotnet.api\\dotnet.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sites\\dotnet_core_angular\\dotnet.api\\dotnet.api.csproj",
+        "projectUniqueName": "C:\\sites\\ASP_NET_CORE_ANGULAR\\dotnet.api\\dotnet.api.csproj",
         "projectName": "dotnet.api",
-        "projectPath": "C:\\sites\\dotnet_core_angular\\dotnet.api\\dotnet.api.csproj",
+        "projectPath": "C:\\sites\\ASP_NET_CORE_ANGULAR\\dotnet.api\\dotnet.api.csproj",
         "packagesPath": "C:\\Users\\Steffen\\.nuget\\packages\\",
-        "outputPath": "C:\\sites\\dotnet_core_angular\\dotnet.api\\obj\\",
+        "outputPath": "C:\\sites\\ASP_NET_CORE_ANGULAR\\dotnet.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -45,6 +45,10 @@
               "target": "Package",
               "version": "[6.3.0, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -58,6 +62,14 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
             }
           },
           "imports": [
