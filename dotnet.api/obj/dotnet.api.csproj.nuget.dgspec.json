@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sites\\ASP_NET_CORE_ANGULAR\\dotnet.api\\dotnet.api.csproj": {}
+    "c:\\sites\\ASP_NET_CORE_ANGULAR\\dotnet.api\\dotnet.api.csproj": {}
   },
   "projects": {
-    "C:\\sites\\ASP_NET_CORE_ANGULAR\\dotnet.api\\dotnet.api.csproj": {
+    "c:\\sites\\ASP_NET_CORE_ANGULAR\\dotnet.api\\dotnet.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sites\\ASP_NET_CORE_ANGULAR\\dotnet.api\\dotnet.api.csproj",
+        "projectUniqueName": "c:\\sites\\ASP_NET_CORE_ANGULAR\\dotnet.api\\dotnet.api.csproj",
         "projectName": "dotnet.api",
-        "projectPath": "C:\\sites\\ASP_NET_CORE_ANGULAR\\dotnet.api\\dotnet.api.csproj",
+        "projectPath": "c:\\sites\\ASP_NET_CORE_ANGULAR\\dotnet.api\\dotnet.api.csproj",
         "packagesPath": "C:\\Users\\Steffen\\.nuget\\packages\\",
-        "outputPath": "C:\\sites\\ASP_NET_CORE_ANGULAR\\dotnet.api\\obj\\",
+        "outputPath": "c:\\sites\\ASP_NET_CORE_ANGULAR\\dotnet.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -44,6 +44,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.10.0, )"
             },
             "EntityFramework": {
               "target": "Package",
